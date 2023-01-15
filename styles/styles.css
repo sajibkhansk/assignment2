@@ -180,7 +180,7 @@ color: #727272;
 .icons div:hover {
     width: 300px;
     height: 300px;
-    transform: rotate3d(45deg);
+    transform: rotate(45deg);
   }
 .boximg{ 
     width: 45.22px;
